@@ -5,7 +5,7 @@ title and short decription on clicking any of the view a new Activity opens up w
 The list is displyed using RecyclerView, each block is basically a ViewHolder which holds the view(The ImageView, the the TextViews). 
 The data is passed to RecyclerView using Adapter.
 
-App looks like image
+App looks like
 ![image](https://user-images.githubusercontent.com/60399993/75058927-f27fa000-5501-11ea-89f0-04965272c6a7.png)
 
 
@@ -13,5 +13,4 @@ App looks like image
 
 
 
-The title and content to be displayed is predefined in  app/src/main/res/values/stories_title.xml and app/src/main/res/values/stories_content.xml l
-file respectively, they can be modified as desired.
+The title and content to be displayed is predefined in  app/src/main/res/values/stories_title.xml and app/src/main/res/values/stories_content.xml file respectively, they can be modified as desired.
