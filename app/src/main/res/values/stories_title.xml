@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="stories_title">
+        <item> SELECTION SORT </item>
+        <item> BUBBLE SORT </item>
+        <item> INSERTION SORT </item>
+        <item> MERGE SORT </item>
+        <item> QUICK SORT </item>
+        <item> HEAP SORT </item>
+        <item> CYCLE SORT </item>
+        <item> COUNT SORT </item>
+        <item> RADIX SORT </item>
+    </string-array>
+
+
+
+
+
+</resources>
